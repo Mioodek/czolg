@@ -40,9 +40,8 @@ namespace ConsoleGame
 
             Console.Title = "Console Game";
 
-            Console.SetWindowSize(width, height);
-
-            Console.SetBufferSize(width, height);
+           //Console.SetWindowSize(width, height);
+           //Console.SetBufferSize(width, height);
 
             Console.CursorVisible = false;
 
